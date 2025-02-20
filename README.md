@@ -1,4 +1,5 @@
-# quest-eval
+# Development of a Virtual Reality Application to Evaluate the Quality of Upper Extremity Skills Test (QUEST) 
+
 
 This repository contains the source code and documentation for a Virtual Reality (VR) application developed as part of my MSc in Biomedical Engineering. The application is designed to assess the Quality of Upper Extremity Skills Test (QUEST), used to evaluate upper limb motor function in patients with muscle function loss, such as those suffering from cerebral palsy, presented at CEU San Pablo University, Madrid, Spain.
  
